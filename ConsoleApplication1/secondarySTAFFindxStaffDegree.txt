@@ -1,0 +1,5 @@
+assistant:1
+doctor:6
+doctor:2
+proffessor:5
+proffessor:4

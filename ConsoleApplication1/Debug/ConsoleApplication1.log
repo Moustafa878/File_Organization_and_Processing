@@ -1,0 +1,47 @@
+﻿  ConsoleApplication1.cpp
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(243): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(202): warning C4101: 'r': unreferenced local variable
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(270): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(288): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(306): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(387): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(405): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(423): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(441): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(514): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(561): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(574): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(585): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(607): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(613): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(638): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(671): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(173): warning C4244: 'initializing': conversion from 'std::streamoff' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+  c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(157): note: see reference to function template instantiation 'std::pair<const _Kty,_Ty>::pair<int&,std::fpos<_Mbstatet>,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Other1=int &,
+              _Other2=std::fpos<_Mbstatet>
+          ]
+  c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(157): note: see reference to function template instantiation 'std::pair<const _Kty,_Ty>::pair<int&,std::fpos<_Mbstatet>,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Other1=int &,
+              _Other2=std::fpos<_Mbstatet>
+          ]
+c:\users\user\desktop\badwyffffff\consoleapplication1\consoleapplication1\consoleapplication1.cpp(128): warning C4715: 'binarySearch': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\user\Desktop\badwyffffff\ConsoleApplication1\Debug\ConsoleApplication1.exe

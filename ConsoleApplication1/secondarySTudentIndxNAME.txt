@@ -1,0 +1,5 @@
+khaled:9
+magdy:5
+may:2
+mona:8
+salma:4
